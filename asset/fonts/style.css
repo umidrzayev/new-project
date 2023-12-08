@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?nici9k');
+  src:  url('fonts/icomoon.eot?nici9k#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?nici9k') format('truetype'),
+    url('fonts/icomoon.woff?nici9k') format('woff'),
+    url('fonts/icomoon.svg?nici9k#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="m-"], [class*=" m-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.m-skilled-1:before {
+  content: "\e901";
+  color: #fff;
+}
+.m-skilled:before {
+  content: "\e90a";
+  color: #13183f;
+}
+.m-group:before {
+  content: "\e900";
+}
+.m-camera:before {
+  content: "\e903";
+}
+.m-globe:before {
+  content: "\e904";
+}
+.m-coin-dollar:before {
+  content: "\e905";
+}
+.m-money:before {
+  content: "\e905";
+}
+.m-cash:before {
+  content: "\e905";
+}
+.m-currency-dollar:before {
+  content: "\e905";
+}
+.m-portfolio:before {
+  content: "\e902";
+}
+.m-briefcase:before {
+  content: "\e902";
+}
+.m-suitcase:before {
+  content: "\e902";
+}
+.m-work:before {
+  content: "\e902";
+}
+.m-business:before {
+  content: "\e902";
+}
